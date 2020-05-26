@@ -1,0 +1,57 @@
+<tabs>
+	<tab name="First Tab">
+		<text>in fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus pellentesque eu
+			tincidunt tortor aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh ipsum consequat nisl
+			vel pretium lectus quam id
+			leo in vitae turpis massa sed elementum</text>
+	</tab>
+	<tab name="Second Tab">
+		<text>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+			Leo duis ut diam quam nulla porttitor massa id neque. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta.
+			Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Magna fringilla urna porttitor rhoncus dolor purus non.
+			Tortor pretium viverra suspendisse potenti nullam ac. Volutpat lacus laoreet non curabitur gravida arcu ac tortor dignissim.
+			Aliquet nec ullamcorper sit amet risus nullam. Aenean et tortor at risus viverra adipiscing at in tellus.
+			Accumsan lacus vel facilisis volutpat est. Etiam erat velit scelerisque in dictum non consectetur a.
+			Vehicula ipsum a arcu cursus vitae congue mauris. Tempor orci dapibus ultrices in iaculis nunc sed.
+
+			Pharetra vel turpis nunc eget. Phasellus faucibus scelerisque eleifend donec pretium.
+			Nibh nisl condimentum id venenatis a. Dictum fusce ut placerat orci nulla pellentesque dignissim enim sit.
+			Dictum at tempor commodo ullamcorper a lacus vestibulum. A diam sollicitudin tempor id eu.
+			Ac tortor dignissim convallis aenean et. Quis hendrerit dolor magna eget est lorem ipsum dolor sit.
+			Lectus urna duis convallis convallis tellus. Viverra orci sagittis eu volutpat odio facilisis mauris sit.
+			Pretium viverra suspendisse potenti nullam ac. Tellus elementum sagittis vitae et leo duis ut diam.
+			Ipsum consequat nisl vel pretium. Imperdiet massa tincidunt nunc pulvinar.
+			Sed velit dignissim sodales ut eu sem.
+
+			Sed velit dignissim sodales ut. Gravida cum sociis natoque penatibus et magnis dis.
+			Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus.
+			Gravida neque convallis a cras. Purus in mollis nunc sed id semper.
+			Purus faucibus ornare suspendisse sed nisi. Pellentesque id nibh tortor id aliquet lectus proin.
+			Lorem ipsum dolor sit amet. Lectus vestibulum mattis ullamcorper velit. Eleifend quam adipiscing vitae proin.
+			Pellentesque nec nam aliquam sem et tortor consequat id. Sed viverra tellus in hac habitasse platea.
+			Massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada proin. Velit ut tortor pretium viverra suspendisse.
+			Aliquet nec ullamcorper sit amet risus nullam eget. Amet volutpat consequat mauris nunc congue nisi vitae suscipit tellus.
+			Amet mattis vulputate enim nulla aliquet porttitor lacus. A arcu cursus vitae congue mauris rhoncus.
+
+			In fermentum et sollicitudin ac orci phasellus. Aliquam etiam erat velit scelerisque in dictum non consectetur.
+			Tempus urna et pharetra pharetra. Viverra accumsan in nisl nisi scelerisque.
+			Sem viverra aliquet eget sit amet tellus cras adipiscing enim. Suscipit adipiscing bibendum est ultricies integer quis auctor.
+			Ornare arcu dui vivamus arcu. Molestie a iaculis at erat. A iaculis at erat pellentesque. Duis ut diam quam nulla porttitor.
+			Nisl vel pretium lectus quam id leo in. Elementum eu facilisis sed odio morbi quis commodo odio.
+			Consequat interdum varius sit amet mattis vulputate enim nulla.
+
+			Elit scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus
+			. At lectus urna duis convallis convallis tellus id interdum velit.
+			Condimentum id venenatis a condimentum vitae sapien. Amet est placerat in egestas erat.
+			Lectus mauris ultrices eros in. Nullam ac tortor vitae purus. Eget velit aliquet sagittis id.
+			Volutpat sed cras ornare arcu. Sem nulla pharetra diam sit. Nulla at volutpat diam ut venenatis tellus.
+			Vivamus at augue eget arcu dictum. Mi quis hendrerit dolor magna eget est lorem.</text>
+	</tab>
+	<tab name="Last Tab">
+		<text>elementum sagittis vitae et leo duis ut diam quam nulla porttitor massa id neque aliquam
+			vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet nulla malesuada pelle
+			ntesque elit eget gravida cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus
+			mauris vitae ultricies leo
+			integer malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat</text>
+	</tab>
+</tabs>
